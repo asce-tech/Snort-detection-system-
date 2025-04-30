@@ -1,4 +1,4 @@
-# intrusion detection system using snort 
+# Network Intrusion Detection System (NIDS) Using Snort 
 
 Requirements:
 - Ubuntu virtual machine with Snort installed
