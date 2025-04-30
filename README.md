@@ -2,7 +2,7 @@
 
 Requirements:
 - Ubuntu virtual machine with Snort installed
-- Your Host OS
+- Linux Machine
 - Snort
 - Wireshark
 - Putty
